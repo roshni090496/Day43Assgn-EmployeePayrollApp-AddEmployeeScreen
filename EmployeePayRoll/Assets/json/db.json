@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "name": "roshni singh new",
+      "gender": "female",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "300000",
+      "startDate": "1 Jan 2022",
+      "notes": "",
+      "id": 1604589551457,
+      "profileUrl": "../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "roshni singh test",
+      "gender": "female",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "300000",
+      "startDate": "1 Jan 2022",
+      "notes": "",
+      "id": 1604589594363,
+      "profileUrl": "../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "roshni",
+      "gender": "female",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "300000",
+      "startDate": "1 Jan 2022",
+      "notes": "",
+      "id": 1604589699566,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "test",
+      "gender": "female",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "300000",
+      "startDate": "1 Jan 2022",
+      "notes": "",
+      "id": 1604589731061,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}
